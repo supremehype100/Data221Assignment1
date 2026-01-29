@@ -2,4 +2,4 @@
 First assignment of Data 221
 
 
-File names correlate to the corresponding assignment question
+File names correspond to the relevant assignment questions.
